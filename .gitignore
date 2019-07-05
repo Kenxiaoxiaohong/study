@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+#忽略临时文件
+Debug
